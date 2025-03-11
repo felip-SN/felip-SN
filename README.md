@@ -7,6 +7,7 @@
 
 
 - I'm a student learning about what I like (development) and try find improve yourself while looking for an opportunity in the market
+- Front-End Development that is studying back-end to become FullStack Development
 - Nationality: Brazilian 
 
 
