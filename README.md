@@ -17,7 +17,7 @@
       <b>Hobbies:</b> Play guitar, Listen to Music, Read, Video Games, Watch Movies.
     </li>
     <li>
-      <b>Studying@:</b>  Fatec Itu - ADS 3°Semester
+      <b>Studying@:</b>  Fatec Itu - ADS 4°Semester
     </li>
     
 
