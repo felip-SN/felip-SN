@@ -96,6 +96,8 @@
     ## Past Works
     <li>
       <b>[Grupo 4 - Controle de Frota.pdf](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)</b>
+      [DocumentaçãoSO-Empresa.pdf](https://github.com/user-attachments/files/22279420/DocumentacaoSO-Empresa.pdf)
+
     </li>
 
 <br>
