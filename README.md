@@ -1,8 +1,3 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2356013941947668071/9912CABA15C3DFF2354CF81F86C207E30FF2F283/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-
-
-
-
 ## Hi there, I'm Felipe Nascimento 👋
 
 
