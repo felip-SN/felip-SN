@@ -1,20 +1,18 @@
-## Hi there, I'm Felipe Nascimento 👋
+# Olá, eu sou o Felipe! 👋
 
+Atualmente atuo como **Auxiliar de TI**, com foco em suporte, infraestrutura e sustentação de **Sistemas Senior**. Estou em constante evolução, expandindo meus conhecimentos para o desenvolvimento de software.
 
-- I'm a student learning about what I like (development) and try find improve myself.
-- Front-End Development
-- Nationality: Brazilian 
+### 🛠️ No que trabalho hoje:
+* **Sistemas Senior:** Experiência com implantação, suporte e rotinas nos sistemas da Senior (ERP/WMS).
+* **Infraestrutura:** Suporte ao usuário, redes e manutenção de ativos.
+* **Desenvolvimento:** Focado em **JavaScript**, **React Native** e o ecossistema **Expo**.
 
+### 🚀 Objetivos:
+Estou unindo minha experiência prática em TI com o desenvolvimento mobile para criar soluções eficientes e interfaces intuitivas.
 
-
-  ## About Me
-    <li>
-      <b>Hobbies:</b> Play guitar, Listen to Music, Read, Video Games, Watch Movies.
-    </li>
-    <li>
-      <b>Studying@:</b>  Fatec Itu - ADS 5°Semester
-    </li>
-    
+### 📫 Contato:
+* **LinkedIn:** [https://www.linkedin.com/in/felipe-nascimento-539041127/]
+* **E-mail:** [felipenascimentooudri@gmail.com]
 
   ## My Skills
 
