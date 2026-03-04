@@ -32,9 +32,6 @@ I am combining my practical IT experience with development to create efficient s
 * **LinkedIn:** [felipe-nascimento-539041127](https://www.linkedin.com/in/felipe-nascimento-539041127/)
 * **Email:** [felipenascimentooudri@gmail.com](mailto:felipenascimentooudri@gmail.com)
 
----
-*“Turning IT challenges into digital solutions.”*
-
   ## My Skills
 
   #### Languages i'm lightly familiar 
