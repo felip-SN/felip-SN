@@ -3,16 +3,37 @@
 Atualmente atuo como **Auxiliar de TI**, com foco em suporte, infraestrutura e sustentação de **Sistemas Senior**. Estou em constante evolução, expandindo meus conhecimentos para o desenvolvimento de software.
 
 ### 🛠️ No que trabalho hoje:
-* **Sistemas Senior:** Experiência com implantação, suporte e rotinas nos sistemas da Senior (ERP/WMS).
+* **Sistemas Senior:** Experiência com suporte e rotinas nos sistemas da Senior (ERP/WMS).
 * **Infraestrutura:** Suporte ao usuário, redes e manutenção de ativos.
-* **Desenvolvimento:** Focado em **JavaScript**, **React Native** e o ecossistema **Expo**.
+* **Desenvolvimento:** Focado em **Angular**.
 
 ### 🚀 Objetivos:
-Estou unindo minha experiência prática em TI com o desenvolvimento mobile para criar soluções eficientes e interfaces intuitivas.
+Estou unindo minha experiência prática em TI com o desenvolvimento para criar soluções eficientes e interfaces intuitivas.
 
 ### 📫 Contato:
-* **LinkedIn:** [https://www.linkedin.com/in/felipe-nascimento-539041127/]
-* **E-mail:** [felipenascimentooudri@gmail.com]
+* **LinkedIn:** [felipe-nascimento-539041127](https://www.linkedin.com/in/felipe-nascimento-539041127/)
+* **Email:** [felipenascimentooudri@gmail.com](mailto:felipenascimentooudri@gmail.com)
+
+# Hi, I'm Felipe! 👋
+
+I currently work as an **IT Assistant**, focusing on support, infrastructure, and maintenance for **Senior Systems**. I am constantly evolving and expanding my knowledge into software development.
+
+---
+
+### 🛠️ What I'm working on:
+* **Senior Systems:** Support and daily routines in Senior systems (ERP/WMS).
+* **Infrastructure:** User support, networking, and asset maintenance.
+* **Development:** Currently focused on **Angular**.
+
+### 🚀 Goals:
+I am combining my practical IT experience with development to create efficient solutions and intuitive interfaces.
+
+### 📫 Get in touch:
+* **LinkedIn:** [felipe-nascimento-539041127](https://www.linkedin.com/in/felipe-nascimento-539041127/)
+* **Email:** [felipenascimentooudri@gmail.com](mailto:felipenascimentooudri@gmail.com)
+
+---
+*“Turning IT challenges into digital solutions.”*
 
   ## My Skills
 
