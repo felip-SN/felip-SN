@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe! 👋
 
-Atualmente atuo como **Auxiliar de TI**, com foco em suporte, infraestrutura e sustentação de **Sistemas Senior**. Estou em constante evolução, expandindo meus conhecimentos para o desenvolvimento de software.
+Atualmente atuo como **Auxiliar de desenvolvimento de software**, com foco em suporte, integração e desenvolvimento de sistemas web e sustentação de **Sistemas Senior**. Estou em constante evolução, expandindo meus conhecimentos para o desenvolvimento de software.
 
 ### 🛠️ No que trabalho hoje:
 * **Sistemas Senior:** Experiência com suporte e rotinas nos sistemas da Senior (ERP/WMS).
